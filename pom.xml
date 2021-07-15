@@ -14,7 +14,7 @@
         <module>maven_controller</module>
     </modules>
 
-    <!--添加依赖-->
+    <!--添加依赖 我在github添加了这个-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>4.3.14.RELEASE</spring.version>
