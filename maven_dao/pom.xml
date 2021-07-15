@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>maven_dao</artifactId>
-<!--测试git,现在是dev分支-->
+<!--测试git,现在是dev分支,在main分支也修改一下-->
     <packaging>jar</packaging>
 
 </project>
