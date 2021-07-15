@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>maven_dao</artifactId>
-<!--测试git,冲突的分支合并了-->
+<!--测试git,冲突的分支合并了,合并冲突之后main也修改了-->
     <packaging>jar</packaging>
 
 </project>
